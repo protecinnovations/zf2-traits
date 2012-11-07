@@ -1,5 +1,5 @@
 {
-    "name": "protec/zend-traits",
+    "name": "protec/zf2-traits",
     "description": "Package that provides standard ZF implementations as traits",
     "type": "library",
     "license": "BSD-2-Clause",
