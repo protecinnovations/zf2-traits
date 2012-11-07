@@ -9,7 +9,7 @@
         "module",
         "zf2"
     ],
-    "homepage": "http://www.github.com/protecinnovations/zend-traits"
+    "homepage": "http://www.github.com/protecinnovations/zend-traits",
     "authors": [
         {
             "name": "Alex Denvir",
