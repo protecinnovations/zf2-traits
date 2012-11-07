@@ -21,11 +21,16 @@
         }
     ],
     "require": {
-        "php": ">=5.4"
+        "php": ">=5.4",
+        "zendframework/zendframework": "2.0.*",
+        "mockery/mockery": ">=0.7.2"
     },
     "autoload": {
         "psr-0": {
-            "Protec/ZF2Trait": "src/"
-        }
+            "Protec\\ZF2Trait": "src/"
+        },
+        "classmap": [
+            "./"
+        ]
     }
 }

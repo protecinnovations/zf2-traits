@@ -1,0 +1,13 @@
+<phpunit bootstrap="tests/Bootstrap.php"
+         processIsolation="true">
+    <testsuites>
+        <testsuite name="Protec ZF2 Trait Test Suite">
+            <directory>tests/Protec/ZF2Trait</directory>
+        </testsuite>
+    </testsuites>
+    <filter>
+        <whitelist>
+            <directory suffix=".php">src</directory>
+        </whitelist>
+    </filter>
+</phpunit>

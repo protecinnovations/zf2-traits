@@ -30,4 +30,14 @@ trait EventManagerAwareTrait
 
         return $this;
     }
+
+    /**
+     * getEventManager
+     *
+     * @return \Zend\EventManager\EventManagerInterface
+     */
+    public function getEventManager()
+    {
+        return $this->event_manager;
+    }
 }
