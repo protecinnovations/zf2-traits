@@ -1,13 +1,13 @@
 <?php
 
-namespace Protec\ZendTrait\Form;
+namespace Protec\ZF2Trait\Form;
 
 use \Zend\Form\Factory;
 
 /**
  * FormFactoryAwareTrait
  *
- * @package   Protec\ZendTrait\Form
+ * @package   Protec\ZF2Trait\Form
  * @author    Protec Innovations <support@protecinnovations.co.uk>
  * @copyright 2012 Protec Innovations
  */

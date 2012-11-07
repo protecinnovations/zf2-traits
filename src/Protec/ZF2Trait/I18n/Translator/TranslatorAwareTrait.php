@@ -1,13 +1,13 @@
 <?php
 
-namespace Protec\ZendTrait\I18n\Translator;
+namespace Protec\ZF2Trait\I18n\Translator;
 
 use \Zend\I18n\Translator\Translator;
 
 /**
  * TranslatorAwareTrait
  *
- * @package   Protec\ZendTrait\I18n\Translator
+ * @package   Protec\ZF2Trait\I18n\Translator
  * @author    Protec Innovations <support@protecinnovations.co.uk>
  * @copyright 2012 Protec Innovations
  */

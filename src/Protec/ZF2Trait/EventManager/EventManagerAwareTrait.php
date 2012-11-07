@@ -1,13 +1,13 @@
 <?php
 
-namespace Protec\ZendTrait\EventManager;
+namespace Protec\ZF2Trait\EventManager;
 
 use \Zend\EventManager\EventManagerInterface;
 
 /**
  * EventManagerAwareTrait
  *
- * @package   Protec\ZendTrait\EventManager
+ * @package   Protec\ZF2Trait\EventManager
  * @author    Protec Innovations <support@protecinnovations.co.uk>
  * @copyright 2012 Protec Innovations
  */

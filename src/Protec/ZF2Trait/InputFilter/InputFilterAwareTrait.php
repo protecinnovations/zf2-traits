@@ -1,13 +1,13 @@
 <?php
 
-namespace Protec\ZendTrait\InputFilter;
+namespace Protec\ZF2Trait\InputFilter;
 
 use \Zend\InputFilter\InputFilterInterface;
 
 /**
  * InputFilterAwareTrait
  *
- * @package   Protec\ZendTrait\InputFilter
+ * @package   Protec\ZF2Trait\InputFilter
  * @author    Protec Innovations <support@protecinnovations.co.uk>
  * @copyright 2012 Protec Innovations
  */

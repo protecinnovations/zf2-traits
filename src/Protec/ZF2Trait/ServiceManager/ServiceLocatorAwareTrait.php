@@ -1,13 +1,13 @@
 <?php
 
-namespace Protec\ZendTrait\ServiceManager;
+namespace Protec\ZF2Trait\ServiceManager;
 
 use \Zend\ServiceManager\ServiceLocatorInterface;
 
 /**
  * ServiceLocatorAwareTrait
  *
- * @package   Protec\ZendTrait\ServiceManager
+ * @package   Protec\ZF2Trait\ServiceManager
  * @author    Protec Innovations <support@protecinnovations.co.uk>
  * @copyright 2012 Protec Innovations
  */

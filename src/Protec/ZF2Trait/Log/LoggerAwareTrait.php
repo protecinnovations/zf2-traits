@@ -1,13 +1,13 @@
 <?php
 
-namespace Protec\ZendTrait\Log;
+namespace Protec\ZF2Trait\Log;
 
 use \Zend\Log\LoggerInterface;
 
 /**
  * LoggerAwareTrait
  *
- * @package   Protec\ZendTrait\Log
+ * @package   Protec\ZF2Trait\Log
  * @author    Protec Innovations <support@protecinnovations.co.uk>
  * @copyright 2012 Protec Innovations
  */

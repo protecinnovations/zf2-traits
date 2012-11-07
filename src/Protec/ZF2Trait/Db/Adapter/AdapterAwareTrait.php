@@ -1,13 +1,13 @@
 <?php
 
-namespace Protec\ZendTrait\Db\Adapter;
+namespace Protec\ZF2Trait\Db\Adapter;
 
 use \Zend\Db\Adapter\Adapter;
 
 /**
  * AdapterAwareTrait
  *
- * @package   Protec\ZendTrait\Db\Adapter
+ * @package   Protec\ZF2Trait\Db\Adapter
  * @author    Protec Innovations <support@protecinnovations.co.uk>
  * @copyright 2012 Protec Innovations
  */
