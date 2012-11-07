@@ -1,0 +1,31 @@
+{
+    "name": "protec/zend-traits",
+    "description": "Package that provides standard ZF implementations as traits",
+    "type": "library",
+    "license": "BSD-2-Clause",
+    "keywords": [
+        "aware",
+        "trait",
+        "module",
+        "zf2"
+    ],
+    "homepage": "http://www.github.com/protecinnovations/zend-traits"
+    "authors": [
+        {
+            "name": "Alex Denvir",
+            "email": "alexdenvir@protecinnovations.co.uk"
+        },
+        {
+            "name": "Martin Meredith",
+            "email": "martinmeredith@protecinnovations.co.uk"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "Protec/ZendTraits": "src/"
+        }
+    }
+}
