@@ -1,5 +1,7 @@
 # ZF2 Traits
 
+[![Build Status](https://travis-ci.org/protecinnovations/zf2-traits.png)](https://travis-ci.org/protecinnovations/zf2-traits)
+
 [Zend Framework 2](http://framework.zend.com) is awesome. PHP 5.4 is also awesome. Combine both, using new PHP 5.4 features to make developing with Zend Framework 2 more fun!
 
 ## Installation
