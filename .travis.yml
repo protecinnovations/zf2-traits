@@ -2,6 +2,5 @@ language: php
 php:
   - 5.4
 before_install: "bash ci/dependencies.sh"
-after_script: "bash ci/after_script.sh"
 notifications:
   email: false

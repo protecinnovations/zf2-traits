@@ -1,9 +1,0 @@
-#!/bin/bash
-
-echo "Beginning Lint Check..."
-for f in `find . -maxdepth 1 -mindepth 1 -type d | grep -v .git | grep -v vendor`; do
-    echo "    $f ..."
-    find $f -name "*.php" -type f -exec php -l {} \; | grep -Ev "^No syntax errors detected in" && exit 1
-done;
-echo "Lint check complete"
-
