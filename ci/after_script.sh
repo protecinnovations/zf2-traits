@@ -2,6 +2,6 @@
 
 set -e
 
-phpcs module -pn
+phpcs src -pn
 
 ci/lint-check
