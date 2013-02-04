@@ -21,3 +21,7 @@ class MyClass implements \Zend\ServiceManager\ServiceLocatorAwareInterface
 }
 
 ```
+
+## Please Note - ZF2 > 2.0.7
+
+As of ZF2 2.0.7 - these are now available as part of Zend Framework itself - you should be able to swap out "\Protec\ZF2Trait" for "\Zend" 
